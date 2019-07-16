@@ -1,0 +1,8 @@
+{
+  "@type": "type.googleapis.com/google.pubsub.v1.PubsubMessage",
+  "attributes": {
+    "KEY2": "VALUE2",
+    "MYKEY": "MYVALUE"
+  },
+  "data": "eyJ1c2VyX2lkIjogMTIzNDV9"
+}
